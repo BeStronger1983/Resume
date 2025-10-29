@@ -93,6 +93,7 @@ Lead Software Engineer
   * [Clean Architecture](https://www.books.com.tw/products/0010786994)。  
 * 進修：  
   * [AI 程式設計代理人開發全攻略](https://learn.duotify.com/courses/ai-coding-pack)。  
+  * [GitHub Copilot 全方位實戰：協作×進階×代理人](https://learn.duotify.com/courses/github-copilot-pack)  
   * [規格驅動開發實戰：AI 時代的軟體開發新典範](https://learn.duotify.com/courses/sdd)。  
 * 換工作的原因：  
   * 公司解散。
